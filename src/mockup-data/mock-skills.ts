@@ -17,7 +17,7 @@ export const skills: Skill[] = [
     {type:"workflow",description:"Mobile-First, Responsive Design"},
     {type:"workflow",description:"Cross Functional Teams"},
     {type:"workflow",description:"Agile Development & Scrum"},
-    {type:"workflow",description:"Countimnuous Delivery, Countimnuous Integration"},
+    {type:"workflow",description:"Countinuous Delivery, Countinuous Integration"},
     {type:"database",description:"Oracle"},
     {type:"database",description:"Mysql"},
     {type:"database",description:"MongoDb"},
