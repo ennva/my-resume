@@ -33,4 +33,12 @@ export class CurriculumComponent implements OnInit {
   ngOnInit() {
   }
 
+  downloadPdf(){
+    alert("want to download pdf?");
+  }
+
+  downloadWord(){
+    alert("want to download word?");
+  }
+
 }
