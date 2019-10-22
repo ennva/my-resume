@@ -1,0 +1,8 @@
+import { Education } from 'src/models/education.model';
+
+export const educations: Education[] = [
+    {institution: "Udemy Platform", diploma: "Software Developer", description:"Android Development with Android Studio", grade:"", date:"05/2018 - 07/2018"},
+    {institution: "Udemy Platform", diploma:"Software Developer", description:"Build An Online Bank With java, Angular 2, Spring and More", grade:"",date:"03/2018 - 04/2018"},
+    {institution: "University of Ferrara , Italy", diploma:"Computer and Automation Engineer", description:"Develop, create, and modify general computer applications software or specialized utility programs. Analyze user needs and develop software solutions. Design software or customize software for client use with the aim of optimizing operational efficiency. May analyze and design databases within an application area, working individually or coordinating database development as part of a team. Design, program, simulate and test automated machinery and processes in order to complete exact tasks",grade:"",date:"09/2004 – 10/2010"},
+    {institution: "Lycée technique de Douala Koumassi, Cameroon", diploma:"Electrotechnical Engineer", description:"Design, develop, and test electrical devices and equipment, including communications systems, power generators, motors and navigation systems, and electrical systems for automobiles and aircraft. Oversee the manufacture of these devices, systems, and equipment.",grade:"",date:"09/1998 – 09/2002"}
+];
