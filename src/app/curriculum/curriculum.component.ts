@@ -105,11 +105,11 @@ export class CurriculumComponent implements OnInit {
         this.ipAdressInfo = data;
 
         for (var key of Object.keys(data)) {
-          console.log('Key: ' + key + ', Value: ' + data[key]);
+          //console.log('Key: ' + key + ', Value: ' + data[key]);
           this.templateParams[key] = data[key];
         }
 
-        console.log('TEMPLATE: ', this.templateParams);
+        //console.log('TEMPLATE: ', this.templateParams);
         
       });
   }
