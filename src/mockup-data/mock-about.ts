@@ -6,5 +6,5 @@ export const about: About = {
     lastname: "Djabon",
     address: address,
     email: "nephthali2017@gmail.com",
-    description: "Engineering Technician with an outstanding quality record of engineering products from design to fabrication.Team-oriented and self-directed Engineer with personal integrity and professional ethics.Adept at managing projects and resolving issues in software and hardware troubleshooting.CompTia Cloud+ certified leveraging cloud business and technical solutions.SAP Business suite Specialist and good understanding of many programming languages"
+    description: "IT Consultant with an outstanding quality record of engineering products from design to fabrication.Team-oriented and self-directed Engineer with personal integrity and professional ethics.Experienced in software engineering specially on software design, development and lifecycle management.CompTia Cloud+ certified leveraging cloud business and technical solutions.Good understanding of Database Management and many programming languages"
 }
