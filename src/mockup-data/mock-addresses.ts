@@ -4,5 +4,5 @@ export const address: Address = {
     street: "",
     city: "",
     postalcode: "",
-    phonenumber: "(+39)051/6171646"
+    phonenumber: "(+33)354307074"
 }
